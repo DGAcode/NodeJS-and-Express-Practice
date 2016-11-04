@@ -10,9 +10,8 @@ It contains a bootstrap's untouched random theme.
 
 npm install<br>
 bower install<br>
-Gulp tasks can be found as usual in gulpfile.js
 
 ### To start the server ###
-npm start --> localhost:10000
+gulp serve
 
 ##ISC Licensed##
